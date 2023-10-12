@@ -1,0 +1,152 @@
+{
+    "position": "top",
+    "margin-top": 10,
+    "modules-left": ["custom/space0",
+                     "custom/space1",
+                     "custom/space2",
+                     "custom/space3",
+                     "custom/logo",
+                     "custom/arrow-2",
+                     "custom/space",
+                     "hyprland/workspaces",
+                     "custom/space",
+                     "custom/arrow-1"],
+
+    "modules-center": ["custom/comment"],
+    
+    "modules-right": ["custom/arrow3",
+                      "memory",
+                      "custom/arrow2",
+                      "cpu",
+                      "custom/arrow1",
+                      "pulseaudio",
+                      "custom/arrow2",
+                      "network",
+                      "custom/arrow1",
+                      "clock",
+                      "custom/space3",
+                      "custom/space2",
+                      "custom/space1",
+                      "custom/space0"],
+
+    "hyprland/workspaces": {
+      "format": "{icon}",
+        "format-icons": {
+        "all-outputs": true,
+        "active": "",
+        "default": ""
+
+        }
+    },
+
+     "persistent_workspaces": {
+          "1": [],
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "9": []
+
+     },
+
+
+        "hyprland/window": {
+        "format": "{}"
+    },
+
+    "clock": {
+        "format": " {:%H:%M}  ",
+        "format-alt": " {:%b %d %Y}  ",
+        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>"
+    },
+
+    "cpu": {
+      "interval": 10,
+      "format": " {}%   ",
+      "max-length": 10
+    },
+
+    "memory": {
+        "interval": 30,
+        "format": " {}% 󰑭  ",
+        "format-alt":" {used:0.1f}GB ",
+        "max-length": 10
+    },
+
+    "network": {
+        "format-ethernet": " LAN   ",
+        "format-disconnected": " disconnected "
+    },
+
+    "pulseaudio": {
+        "format": " {icon} ",
+        "format-muted": " [----------] 婢  ",
+        "format-icons": {
+         "default": ["[#---------] 婢 ",
+                     "[##--------]  ",
+                     "[###-------]  ",
+                     "[####------]  ",
+                     "[#####-----] 󰕾 ",
+                     "[######----] 󰕾 ",
+                     "[#######---] 󰕾 ",
+                     "[########--] 󰕾 ",
+                     "[#########-] 󰕾 ",
+                     "[##########] 󰕾 "]
+
+        },
+        "on-click": "pavucontrol &"
+
+    },
+
+    "custom/logo": {
+        "format": "  "
+    },
+
+    "custom/arrow1": {
+        "format": ""
+    },
+
+    "custom/arrow2": {
+        "format": ""
+    },
+
+    "custom/arrow3": {
+        "format": ""
+    },
+
+   "custom/comment": {
+        "format": "I Use Arch, BTW"
+    },
+
+ "custom/space1": {
+        "format": " "
+    },
+
+ "custom/space2": {
+        "format": " "
+    },
+
+ "custom/space3": {
+        "format": " "
+    },
+
+    "custom/arrow-1": {
+        "format": ""
+    },
+
+   "custom/arrow-2": {
+        "format": ""
+    },
+
+  "custom/space0": {
+        "format": " "
+    },
+
+  "custom/space": {
+        "format": " "
+    },
+
+}
