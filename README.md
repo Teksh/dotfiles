@@ -4,3 +4,8 @@
 
 
 
+![20231012_20h15m44s_grim](https://github.com/Teksh/dotfiles/assets/141273300/7d2a0e20-7579-4b06-9c6a-13bd58e7403e)
+
+
+
+
