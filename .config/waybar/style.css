@@ -1,0 +1,112 @@
+* {
+    font-family: MesloLGS NF;
+    font-size: 14px;
+    padding: 0px;
+    margin: 0px;
+    font-weight: bold; 
+    border: none;
+    border-radius: 0;
+    background-color: transparent;
+}
+
+/*https://github.com/Alexays/Waybar/wiki/FAQ#the-workspace-buttons-have-a-strange-hover-effect */
+button:hover {
+    background: inherit;
+    box-shadow: inherit;
+}
+
+#workspaces button {
+    padding: 0 4px;
+    background-color: #1CDC9A;
+    color: #ffffff;
+}
+
+#workspaces button label {
+    font-size: 14px;
+}
+
+#workspaces button.active {
+    color: #8E44AD;
+}
+     
+#clock {
+    background-color: #8E44AD;
+}
+
+#cpu {
+    background-color: #1CDC9A;
+}
+
+#memory {
+    background-color: #8E44AD;
+}
+
+#network {
+    background-color: #1CDC9A;
+    font-size: 14px;
+}
+
+#network.disconnected {
+    background-color: #1CDC9A;
+    font-size: 14px;
+}
+
+#pulseaudio {
+    background-color: #8E44AD;
+    font-size: 14px;
+}
+
+#pulseaudio.muted {
+    background-color: #8E44AD;
+    font-size: 14px;
+}
+
+#custom-space {
+    background-color: #1CDC9A;
+}
+
+#custom-space1 {
+    background-color: #3D2A4C;
+}
+
+#custom-space2 {
+    background-color: #56316A;
+}
+
+#custom-space3 {
+    background-color: #733B8C;
+}
+
+#custom-logo {
+    background-color: #8E44AD;
+    font-size: 14px;
+}
+
+#custom-arrow1 {
+    background-color: #1CDC9A;
+    color: #8E44AD;
+    font-size: 14px;
+}
+
+#custom-arrow2 {
+    background-color: #8E44AD;
+    color: #1CDC9A;
+    font-size: 14px;
+}
+
+#custom-arrow3 {
+    color: #8E44AD;
+    font-size: 14px;
+}
+
+#custom-arrow-1 {
+    color: #1CDC9A;
+    font-size: 14px;
+}
+
+#custom-arrow-2 {
+    background-color: #1CDC9A;
+    color: #8E44AD;
+    font-size: 14px;
+}
+
