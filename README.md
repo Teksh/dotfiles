@@ -1,17 +1,10 @@
 # My Hyprland rice 
 
-![20231012_19h47m32s_grim](https://github.com/Teksh/dotfiles/assets/141273300/cd9b384b-50d8-40b0-aa8d-6fae6a2a77e8)
+![20231013_03h05m45s_grim](https://github.com/Teksh/dotfiles/assets/141273300/53ab41d7-887d-4103-9dc9-d032cda87027)
+
+![20231013_03h12m11s_grim](https://github.com/Teksh/dotfiles/assets/141273300/828a7fc0-d07c-43b0-9c93-b30e380c6dd4)
 
 
-
-
-
-
-
-
-
-
-![20231012_20h15m44s_grim](https://github.com/Teksh/dotfiles/assets/141273300/7d2a0e20-7579-4b06-9c6a-13bd58e7403e)
 
 
 
